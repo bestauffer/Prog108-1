@@ -50,6 +50,6 @@ print(num1, "x", num2, "=", num1*num2)
 
 
 # experiment with a line or two of code of your own for further Python practice (perhaps more math, or an input statement?) 
-num3 = int(input('Enter a number: '))
-num4 = int(input('Enter another number: '))
+num3 = float(input('Enter a number: '))
+num4 = float(input('Enter another number: '))
 print(num3, "/", num4, "=", num3/num4)
